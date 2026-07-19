@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+selenium
+beautifulsoup4
+pymongo
+python-dotenv
+transformers
+vaderSentiment
+openai
